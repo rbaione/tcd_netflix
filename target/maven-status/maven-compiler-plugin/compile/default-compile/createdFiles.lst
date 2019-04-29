@@ -1,0 +1,13 @@
+br\com\fiap\tcp\service\IssueConsumer.class
+br\com\fiap\tcp\model\Message.class
+br\com\fiap\tcp\controller\IssueController.class
+br\com\fiap\tcp\controller\ProductController.class
+br\com\fiap\tcp\model\Product.class
+br\com\fiap\tcp\model\Result.class
+br\com\fiap\tcp\service\FreightService.class
+br\com\fiap\tcp\service\IssueProducer.class
+br\com\fiap\tcp\model\Freight.class
+br\com\fiap\tcp\model\Issue.class
+br\com\fiap\tcp\Application.class
+br\com\fiap\tcp\repository\IssueRepository.class
+br\com\fiap\tcp\repository\ProductRepository.class
